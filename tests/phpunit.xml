@@ -1,0 +1,7 @@
+<phpunit bootstrap="__phpunit_init.php" colors="false">
+    <textsuites>
+        <testsuite name="klein">
+            <directory>./</directory>
+        </testsuite>
+    </textsuites>
+</phpunit>
